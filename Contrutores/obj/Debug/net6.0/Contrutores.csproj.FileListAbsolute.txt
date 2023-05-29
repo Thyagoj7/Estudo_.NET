@@ -1,0 +1,15 @@
+C:\Users\ty_jo\source\repos\EstudoAsync\Contrutores\bin\Debug\net6.0\Contrutores.exe
+C:\Users\ty_jo\source\repos\EstudoAsync\Contrutores\bin\Debug\net6.0\Contrutores.deps.json
+C:\Users\ty_jo\source\repos\EstudoAsync\Contrutores\bin\Debug\net6.0\Contrutores.runtimeconfig.json
+C:\Users\ty_jo\source\repos\EstudoAsync\Contrutores\bin\Debug\net6.0\Contrutores.dll
+C:\Users\ty_jo\source\repos\EstudoAsync\Contrutores\bin\Debug\net6.0\Contrutores.pdb
+C:\Users\ty_jo\source\repos\EstudoAsync\Contrutores\obj\Debug\net6.0\Contrutores.csproj.AssemblyReference.cache
+C:\Users\ty_jo\source\repos\EstudoAsync\Contrutores\obj\Debug\net6.0\Contrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ty_jo\source\repos\EstudoAsync\Contrutores\obj\Debug\net6.0\Contrutores.AssemblyInfoInputs.cache
+C:\Users\ty_jo\source\repos\EstudoAsync\Contrutores\obj\Debug\net6.0\Contrutores.AssemblyInfo.cs
+C:\Users\ty_jo\source\repos\EstudoAsync\Contrutores\obj\Debug\net6.0\Contrutores.csproj.CoreCompileInputs.cache
+C:\Users\ty_jo\source\repos\EstudoAsync\Contrutores\obj\Debug\net6.0\Contrutores.dll
+C:\Users\ty_jo\source\repos\EstudoAsync\Contrutores\obj\Debug\net6.0\refint\Contrutores.dll
+C:\Users\ty_jo\source\repos\EstudoAsync\Contrutores\obj\Debug\net6.0\Contrutores.pdb
+C:\Users\ty_jo\source\repos\EstudoAsync\Contrutores\obj\Debug\net6.0\Contrutores.genruntimeconfig.cache
+C:\Users\ty_jo\source\repos\EstudoAsync\Contrutores\obj\Debug\net6.0\ref\Contrutores.dll

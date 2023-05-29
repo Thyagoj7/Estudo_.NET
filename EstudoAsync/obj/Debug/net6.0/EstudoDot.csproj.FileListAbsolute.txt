@@ -1,0 +1,15 @@
+C:\Users\ty_jo\source\repos\EstudoAsync\EstudoAsync\bin\Debug\net6.0\EstudoDot.exe
+C:\Users\ty_jo\source\repos\EstudoAsync\EstudoAsync\bin\Debug\net6.0\EstudoDot.deps.json
+C:\Users\ty_jo\source\repos\EstudoAsync\EstudoAsync\bin\Debug\net6.0\EstudoDot.runtimeconfig.json
+C:\Users\ty_jo\source\repos\EstudoAsync\EstudoAsync\bin\Debug\net6.0\EstudoDot.dll
+C:\Users\ty_jo\source\repos\EstudoAsync\EstudoAsync\bin\Debug\net6.0\EstudoDot.pdb
+C:\Users\ty_jo\source\repos\EstudoAsync\EstudoAsync\obj\Debug\net6.0\EstudoDot.csproj.AssemblyReference.cache
+C:\Users\ty_jo\source\repos\EstudoAsync\EstudoAsync\obj\Debug\net6.0\EstudoDot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ty_jo\source\repos\EstudoAsync\EstudoAsync\obj\Debug\net6.0\EstudoDot.AssemblyInfoInputs.cache
+C:\Users\ty_jo\source\repos\EstudoAsync\EstudoAsync\obj\Debug\net6.0\EstudoDot.AssemblyInfo.cs
+C:\Users\ty_jo\source\repos\EstudoAsync\EstudoAsync\obj\Debug\net6.0\EstudoDot.csproj.CoreCompileInputs.cache
+C:\Users\ty_jo\source\repos\EstudoAsync\EstudoAsync\obj\Debug\net6.0\EstudoDot.dll
+C:\Users\ty_jo\source\repos\EstudoAsync\EstudoAsync\obj\Debug\net6.0\refint\EstudoDot.dll
+C:\Users\ty_jo\source\repos\EstudoAsync\EstudoAsync\obj\Debug\net6.0\EstudoDot.pdb
+C:\Users\ty_jo\source\repos\EstudoAsync\EstudoAsync\obj\Debug\net6.0\EstudoDot.genruntimeconfig.cache
+C:\Users\ty_jo\source\repos\EstudoAsync\EstudoAsync\obj\Debug\net6.0\ref\EstudoDot.dll
