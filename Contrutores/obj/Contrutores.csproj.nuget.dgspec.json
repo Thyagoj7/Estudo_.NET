@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ty_jo\\source\\repos\\EstudoAsync\\Contrutores\\Contrutores.csproj": {}
+    "C:\\Users\\ty_jo\\source\\repos\\EstudoDot\\Contrutores\\Contrutores.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ty_jo\\source\\repos\\EstudoAsync\\Contrutores\\Contrutores.csproj": {
+    "C:\\Users\\ty_jo\\source\\repos\\EstudoDot\\Contrutores\\Contrutores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ty_jo\\source\\repos\\EstudoAsync\\Contrutores\\Contrutores.csproj",
+        "projectUniqueName": "C:\\Users\\ty_jo\\source\\repos\\EstudoDot\\Contrutores\\Contrutores.csproj",
         "projectName": "Contrutores",
-        "projectPath": "C:\\Users\\ty_jo\\source\\repos\\EstudoAsync\\Contrutores\\Contrutores.csproj",
+        "projectPath": "C:\\Users\\ty_jo\\source\\repos\\EstudoDot\\Contrutores\\Contrutores.csproj",
         "packagesPath": "C:\\Users\\ty_jo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ty_jo\\source\\repos\\EstudoAsync\\Contrutores\\obj\\",
+        "outputPath": "C:\\Users\\ty_jo\\source\\repos\\EstudoDot\\Contrutores\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ty_jo\\AppData\\Roaming\\NuGet\\NuGet.Config",

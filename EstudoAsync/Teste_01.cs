@@ -23,8 +23,8 @@ namespace EstudoAsync
 
         }
 
-        public int ax { get; set; }
-        public int ay { get; set; }
+        public int ax;
+        public int ay;
 
         public void pegaNumero(int ax, int ay)
         {
@@ -38,6 +38,35 @@ namespace EstudoAsync
             Console.WriteLine(R);
         }
 
+        //Método Assyncrono para teste
+        public async void texto1()
+        {
+            
+            await Task.Delay(10); // Placeholder asynchronous operation
+            var texto = "Classe de teste";
+            Console.WriteLine(texto);
+            //return texto.ToString();
+        }
+
+
+    }
+
+}
+
+
+/*           
+        }
+
+        public async void texto2()
+        {
+            Thread.Sleep(5000);
+            Console.WriteLine("Texto_02");
+        }
+
+
+
+
 
     }
 }
+*/

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ty_jo\\source\\repos\\EstudoAsync\\EstudoAsync\\EstudoAsync.csproj": {}
+    "C:\\Users\\ty_jo\\source\\repos\\EstudoDot\\EstudoAsync\\EstudoAsync.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ty_jo\\source\\repos\\EstudoAsync\\EstudoAsync\\EstudoAsync.csproj": {
+    "C:\\Users\\ty_jo\\source\\repos\\EstudoDot\\EstudoAsync\\EstudoAsync.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ty_jo\\source\\repos\\EstudoAsync\\EstudoAsync\\EstudoAsync.csproj",
+        "projectUniqueName": "C:\\Users\\ty_jo\\source\\repos\\EstudoDot\\EstudoAsync\\EstudoAsync.csproj",
         "projectName": "EstudoAsync",
-        "projectPath": "C:\\Users\\ty_jo\\source\\repos\\EstudoAsync\\EstudoAsync\\EstudoAsync.csproj",
+        "projectPath": "C:\\Users\\ty_jo\\source\\repos\\EstudoDot\\EstudoAsync\\EstudoAsync.csproj",
         "packagesPath": "C:\\Users\\ty_jo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ty_jo\\source\\repos\\EstudoAsync\\EstudoAsync\\obj\\",
+        "outputPath": "C:\\Users\\ty_jo\\source\\repos\\EstudoDot\\EstudoAsync\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ty_jo\\AppData\\Roaming\\NuGet\\NuGet.Config",
